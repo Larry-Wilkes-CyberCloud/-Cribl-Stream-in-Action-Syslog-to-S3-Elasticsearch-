@@ -1,4 +1,4 @@
-# Cribl-Stream-in-Action-Syslog-to-S3-Elasticsearch
+# Cribl Stream in Action Syslog to S3 Elasticsearch
 
 🚀 Cribl Stream in Action: Syslog to S3 & Elasticsearch! 🚀
 
