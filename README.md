@@ -1,0 +1,1 @@
+# -Cribl-Stream-in-Action-Syslog-to-S3-Elasticsearch-
